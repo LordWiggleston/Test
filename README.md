@@ -1,2 +1,2 @@
-# Test
-Attempt 2
+Hello World!
+This is an example document
